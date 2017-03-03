@@ -1,0 +1,16 @@
+colors:
+  primary-color:        "#4E4D55"
+  primary-color-dark:   "#333"
+  primary-color-light:  "#555"
+  accent-color:         "#you"
+  accent-color-light:   "red"
+  accent-color-dark:    "wheat"
+  text-color-primary:   "black"
+  text-on-primary-color:   "#fff"
+  text-color-secondary: "#ccc"
+  text-color-disabled:  "#F7f7f7"
+  divider-color:        "#f6f6f6"
+  warn-color: red
+
+fonts:
+  sans-serif: "open sans"
