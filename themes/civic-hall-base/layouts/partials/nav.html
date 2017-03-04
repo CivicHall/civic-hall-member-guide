@@ -1,8 +1,12 @@
-<header class="bg-black-90 w-100 pv4 pv3-ns  ph3 tc tl-ns ph4-l">
-  <a class="f4 f3-ns link white-70 tracked hover-white" href="/">
-    {{ .Site.Title }}
+<nav class="db dt-l w-100 border-box pa3 ph5-l">
+  <a class="db dtc-l v-mid mid-gray link dim w-100 w-25-l tc tl-l mb2 mb0-l" href="/" title="Home">
+    <img src="/uploads/logo-civic-hall-boxed.svg" alt="" class="bg-black-80 w3 w4-ns h3 h4-ns dtc-ns mr4-l">
+
   </a>
-  <nav class="f6 dib-l fw6 ttu">
+  <div class="db dtc-l v-mid w-100 w-75-l tc">
+    <a class="f3 f2-ns link black-70 tracked  mr5-l mb0" href="/">
+      {{ .Site.Title }}
+    </a>
     {{ partial "nav-links" . }}
-  </nav>
-</header>
+  </div>
+</nav>

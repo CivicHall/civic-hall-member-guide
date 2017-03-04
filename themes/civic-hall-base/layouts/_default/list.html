@@ -1,7 +1,29 @@
 {{ define "main" }}
 
-some List content here
+<article class="cf pa3 pa4-m pa4-l nested-copy-line-height nested-links nested-img">
+  <h1>
+    {{ .Title }}
+  </h1>
+  {{ .Content }}
 
+  <section class="flex flex-wrap">
+    {{ range sort (where .Data.Pages "Section" .Section) ".Title" }}
+    <div class="relative flex-auto fl mb4 w-100 w-30-ns ph4 pv3 mr4 gray bg-white shadow-hover shadow-5">
+
+      <h1>
+        <a href="{{ .URL }}">
+        {{ .Title }}
+      </a>
+
+      </h1>
 {{ .Content }}
+    </div>
+    {{ end }}
+  </section>
+
+</article>
+
+
+
 
 {{ end }}

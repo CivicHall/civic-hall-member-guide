@@ -17,7 +17,7 @@
 
      {{ partial "seo/main" . }}
 
-     <link href='/css/main.min.css' rel='stylesheet' type="text/css" />
+     <link href='/css/main.min.css?89966' rel='stylesheet' type="text/css" />
      <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
       {{ block "css" . }}
            {{- partialCached "color-palette" . -}}
@@ -25,12 +25,16 @@
 
 
   </head>
-  <body class="w-100 vh-100 sans-serif">
-    
-    {{ block "nav" . }}{{ partial "nav" . }}{{ end }}
-    {{ block "hero" . }}{{ end }}
-    {{ block "main" . }}{{ end }}
-    {{ block "footer" . }}{{ end }}
+  <body class="w-100 vh-100 sans-serif bg-near-white {{ .Site.Params.sidebar_direction }}">
+
+    {{ block "nav" . }}{{ partial "nav-side" . }}{{ end }}
+
+    <main class="content-with-sidebar">
+      {{ block "hero" . }}{{ end }}
+      {{ block "main" . }}
+      {{ end }}
+    </main>
+    {{ block "footer" . }}{{ partial "footer" . }}{{ end }}
     {{ block "scripts" . }}{{ end }}
   </body>
 </html>

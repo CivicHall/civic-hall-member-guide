@@ -6,3 +6,6 @@ menu:
     name: Guidelines & Policies
 
 ---
+All Members of the Civic Hall community should experience a comfortable, clean environment where you can connect with other members of the civic technology community and work on projects together that matter to you.
+
+Everyone plays a role. Be solution oriented in all you do.

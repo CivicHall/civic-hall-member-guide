@@ -1,9 +1,10 @@
 {{ $currentPage := . }}
-{{ $.Scratch.Add "listlinkClasses" "relative f6 link white-90 dib brand-font hover-bg-primary-color-dark ma0 w-100 ph3 ph4-l pv3" }}
+{{ $.Scratch.Add "listlinkClasses" "f6 link white-90 db brand-font dim ma0 w-100 pv3 ph4" }}
 
-<ul class="list dib pv3 ph0 ma0 scrolling-touch tc">
+
+<ul class="list dib ph0 ma0 scrolling-touch tc">
   {{ range .Site.Menus.main }}
-    <li  class="tl-l dib ma0 {{ if .HasChildren }} dont-display-child-until-click{{end}}">
+    <li  class="tl-l dib ma0 hover-bg-black w-100{{ if .HasChildren }} dont-display-child-until-click{{end}}">
 
       {{ if .HasChildren }}
         <a href="#{{ .Name | urlize }}" class="ttu {{ $.Scratch.Get "listlinkClasses" }}{{if $currentPage.IsMenuCurrent   "main" . }} o-50{{end}}">
@@ -25,7 +26,7 @@
           {{ end }}
         </ul>
       {{ else }}
-        <a href="{{.URL}}" class="ttu {{ $.Scratch.Get "listlinkClasses" }}{{if $currentPage.IsMenuCurrent "main" . }} o-50{{end}}">
+        <a href="{{.URL}}" class="ttu {{ $.Scratch.Get "listlinkClasses" }}{{if $currentPage.IsMenuCurrent "main" . }} bg-primary-color{{end}}">
           {{ .Name }}
         </a>
       {{end}}

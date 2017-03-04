@@ -1,17 +1,16 @@
-<div class="bg-primary-color TKbg-white">
-  <a class="db pt3 pt4-l tc center" href="/">
-    <img src="{{ .Site.Params.logo }}" alt="" class="" style="max-width:46%;">
-  </a>
+<a class="db pt4-l tc center" href="/">
+  <img src="{{ .Site.Params.logo }}" alt="" class="w-25 w-50-l">
+</a>
 
-  <a class="f3 brand-font fw9 link white TKblack hover-black tc db items-centerTK pv4 ph3" href="/">
-     {{ .Site.Title | markdownify  }}
-  </a>
+<a class="f4 f3-l fw9 brand-font link white dim db tc ph3 pb4 pb3-l" href="/">
+   {{ .Site.Title | markdownify  }}
+</a>
 
-</div>
-<div class="f6 mv3-l fw6 tracked w-100 overflow-auto">
+
+<div class="f6 mv3-l tracked w-100 overflow-auto dn db-l">
   {{ partial "nav-links" . }}
 
-  <a href="{{ .Site.Params.donate_link}}" target="_blank" title="this link takes you to another site to donate" class="f4 tc db mt4 ml4 ph3 pv2 link white br2 hover-bg-primary-color-dark grow ba w-50 b--white-80">
-    Donate
-  </a>
+<a href="{{ .Site.Params.member_log_in}}" target="_blank" title="this link takes you to another site to log in" class="f6 tc db mt4 ml4 ph3 pv2 link white br2 hover-bg-primary-color ba w-50 b--white-80">
+  Member Portal &#x2197;
+</a>
 </div>
