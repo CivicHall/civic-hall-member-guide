@@ -1,7 +1,22 @@
 {{ define "main" }}
 
-  <article class="cf pa3 pa4-m pa5-l nested-copy-line-height nested-links nested-img">
-  {{ .Content }}
+  <article class="cf pa3 pa4-m pa5-l">
+    <h1>
+      {{ .Title }}
+    </h1>
+    <div class="nested-copy-line-height nested-links nested-img gray">
+        {{ .Content }}
+    </div>
+
+
+  {{ if .Params.plans }}
+      <div class="flex-ns flex-wrap justify-between w-100 mt5 v-top b--primary-color">
+
+          {{ partial "plans" .}}
+
+      </div>
+    {{ end }}
+
 </article>
 
 {{ end }}
