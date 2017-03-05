@@ -1,0 +1,15 @@
+{{ range sort (where .Data.Pages "Section" .Section) ".Title" }}
+  <div class="relative flex-auto fl mb4 w-100 w-40-nsTK ph5 pv4 mr4 gray bg-white shadow-5">
+    <h1 class="near-black">
+      <a href="{{ .URL }}" class="link near-black dim">
+        {{ .Title }}
+      </a>
+    </h1>
+    <p>
+      {{ .Summary }}
+    </p>
+    <div class="absolute bottom-0 right-0 mb2 mr3">
+      {{ partial "icon-link" (dict "url" .URL "color" "#357edd") }}
+    </div>
+  </div>
+{{ end }}

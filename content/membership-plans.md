@@ -3,35 +3,29 @@ date: 2017-03-04T15:05:26-05:00
 afterForm: "Organization Memberships
 If you are a team of 3 or more, you may be interested in an Organization Membership plan.
 For more info, email partnerships@civichall.org."
-
+menu:
+  main:
+  weight: 10
 plans:
   -
-    copy: "Access to the Community Space for activities and events or through the purchase of day passes st $35 each."
-    features:
-      - ""
+    copy: "Access to the Community Space for activities and events or through the purchase of day passes at $35 each."    
     heading: Network
     price: 20
     price_qualifier: "/month"
   -
     copy: "Network membership with 3 pre-paid day passes per month. (Value: $125)"
-    features:
-      - ""
     heading: "Network Plus"
     icon: /uploads/noun_684458.svg
     price: 90
     price_qualifier: "/month"
   -
     copy: "Network membership with 8 pre-paid day passes per month. (Value: $300)"
-    features:
-      - ""
     heading: "Part Time"
     icon: /uploads/noun_684458.svg
     price: 200
     price_qualifier: "/month"
   -
     copy: "Unlimited drop-in access to the Community Space during operating hours."
-    features:
-      - ""
     heading: Community
     icon: /uploads/noun_684458.svg
     price: 450
