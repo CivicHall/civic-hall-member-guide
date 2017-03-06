@@ -10,6 +10,7 @@ params:
   member_log_in: http://civichall.spaces.nexudus.com/en/
   sidebar_direction: sidebar_left
   description: "Welcome to a community of action-oriented, cross-sector professionals located in the heart of Manhattan, where we aim to better the world through civic tech."
+  copyClass: "nested-copy-line-height nested-links nested-img mid-gray measure-wide-l"
 
 taxonomies:
   tag: "tags"

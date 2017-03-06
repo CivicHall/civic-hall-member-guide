@@ -1,6 +1,7 @@
 ---
 date: 2017-03-04T15:03:04-05:00
 title: Holiday Schedule
+tags: 
 ---
 Civic Hall observes the following holidays and will be closed.
 

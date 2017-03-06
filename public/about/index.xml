@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basics on Membership Guide</title>
+    <link>https://membership-guide.civichall.org/about/index.xml</link>
+    <description>Recent content in Basics on Membership Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://membership-guide.civichall.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Holiday Schedule</title>
+      <link>https://membership-guide.civichall.org/about/holiday-schedule/</link>
+      <pubDate>Sat, 04 Mar 2017 15:03:04 -0500</pubDate>
+      
+      <guid>https://membership-guide.civichall.org/about/holiday-schedule/</guid>
+      <description>&lt;p&gt;Civic Hall observes the following holidays and will be closed.&lt;/p&gt;
+
+&lt;p&gt;New Year&amp;rsquo;s Day&lt;br /&gt;
+Martin Luther King Jr.&lt;br /&gt;
+Presidents&amp;rsquo; Day&lt;br /&gt;
+Memorial Day&lt;br /&gt;
+Independence Day&lt;br /&gt;
+Labor Day&lt;br /&gt;
+Thanksgiving&lt;br /&gt;
+Day after Thanksgiving&lt;br /&gt;
+Christmas&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hours of Operation</title>
+      <link>https://membership-guide.civichall.org/about/hours/</link>
+      <pubDate>Sat, 04 Mar 2017 15:02:53 -0500</pubDate>
+      
+      <guid>https://membership-guide.civichall.org/about/hours/</guid>
+      <description>&lt;p&gt;Monday - Friday&lt;br /&gt;
+8:30am - 7:00pm&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://membership-guide.civichall.org/about/contact/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      
+      <guid>https://membership-guide.civichall.org/about/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

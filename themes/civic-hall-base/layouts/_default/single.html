@@ -1,10 +1,14 @@
 {{ define "main" }}
-
+{{ $currentPageUrl := .URL }}
   <article class="cf pa3 pa4-m pa5-l">
+
+    <h4 class="f6">
+      {{ humanize .Section | upper  }}
+    </h4>
     <h1>
       {{ .Title }}
     </h1>
-    <div class="nested-copy-line-height nested-links nested-img gray">
+    <div class="{{ .Site.Params.copyClass }}">
         {{ .Content }}
     </div>
 
@@ -16,6 +20,31 @@
 
       </div>
     {{ end }}
+
+    {{ if .Params.tags }}
+      <div class="mt5 f6 gray nested-lh-copy bg-light-gray ph3 pv2 measure-wide-l">
+          {{ $name := index .Params.tags 0 }}
+          {{ $name := $name | urlize }}
+          {{ $tags := index .Site.Taxonomies.tags $name }}
+          Related:
+            <ul class="list dib nested-links ml0 pl0">
+              {{ range $tags.Pages }}
+                {{ if ne .URL $currentPageUrl }}
+                  <li class="pb2">
+    	               <a href="{{ .URL }}" class="link">
+                       {{ .LinkTitle }}
+                     </a>
+                   </li>
+                {{ end }}
+              {{end}}
+            </ul>
+          </div>
+        {{end}}
+
+
+    <div class="gray f6 mv6">
+      Last Update: {{ .Lastmod.Format "January 2, 2006" }}
+    </div>
 
 </article>
 
