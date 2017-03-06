@@ -1,5 +1,23 @@
 {{ define "hero" }}
      {{ partial "hero" . }}
+     <section class="relative w-100 bg-black white">
+       <div class="flex flex-wrap">
+         {{ range first 5 (where .Data.Pages "Section" "announcements") }}
+         <a href="{{ .URL }}" class="link moon-gray f6 w-100 w-50-m w-20-l bg-animate hover-bg-light-blue hover-black pv2 pv4-ns ph3 dib">
+           <span class="f6 dark-gray pb2 db">{{ .Date.Format "Mon Jan 06, 2006" }} </span>
+
+           {{ .Title}}
+
+
+
+         </a>
+           {{ end }}
+       </div>
+
+       <a href="/news" class="absolute bottom-0 right-0 pr4 pb2 gray link dim">
+         more news &raquo;
+       </a>
+     </section>
 {{ end }}
 
 {{ define "main" }}
