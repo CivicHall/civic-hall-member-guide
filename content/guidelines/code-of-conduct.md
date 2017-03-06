@@ -1,6 +1,7 @@
 ---
 date: 2017-03-05T23:52:17-05:00
 title: Code of Conduct
+tags: ['Legal']
 ---
 Membership at Civic Hall means that the collaboration center, workspace, activities, events, and digital forums:  
 

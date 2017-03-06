@@ -1,11 +1,25 @@
 ---
 date: 2017-03-05T23:55:30-05:00
 title: How to Use Slack
+tags: ['Slack']
 ---
 
 Our Slack network is an excellent platform to communicate and stay in touch with all of your fellow Civic Hall Members. There’s a channel relevant to almost any interest, but not all of them have daily activity or conversation. Therefore, the community team here at Civic Hall thought it’d be convenient to analyze which Slack channels typically have the most activity. 
 
 If you don't see a channel that fits the topic of discussion you'd like to participate in, you can always create a new channel or, try to spark conversation in less active channels too! 
+
+For more information, check the Slack Help website here: [https://slack.zendesk.com/hc/en-us](https://www.google.com/url?q=https%3A%2F%2Fslack.zendesk.com%2Fhc%2Fen-us&sa=D&sntz=1&usg=AFQjCNElgbiJI_aADmkxkeAFiJRXVwxrNQ)
+
+
+### Slack Best Practices
+
+*   **Do** start channels for new interests groups.
+*   **<u>Do not use @everyone</u>.** It will ping every user who is and isn't on Slack at the time. The community team would like to reserve this tag **for emergencies or important announcements.**
+*   **Do** use @here to grab the attention of members in the space or members of your channel. 
+*   **Do not** use Slack to find people's emails and add them to your newsletters without the members' consent.
+*   **Do** use Slack to reach out to fellow members you want to meet and collaborate with, especially if you forgot to exchange emails over coffee.
+*   **Do not** use @channel in the #general channel. According to member feedback, this tends to be an unpopular action. 
+*   **Do** use @channel in special interest group channels if there is relative and important information you want to share with everyone in that channel.
 
 
 

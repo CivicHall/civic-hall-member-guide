@@ -26,11 +26,12 @@
           {{ $name := index .Params.tags 0 }}
           {{ $name := $name | urlize }}
           {{ $tags := index .Site.Taxonomies.tags $name }}
-          Related:
+
             <ul class="list dib nested-links ml0 pl0">
+              <li class="dib mr2">Related:</li>
               {{ range $tags.Pages }}
                 {{ if ne .URL $currentPageUrl }}
-                  <li class="pb2">
+                  <li class="dib mb2 mr3">
     	               <a href="{{ .URL }}" class="link">
                        {{ .LinkTitle }}
                      </a>
