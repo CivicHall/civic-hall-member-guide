@@ -36,6 +36,7 @@ For more info, email <partnerships@civichall.org>."
    heading: Organization Memberships
 
 subtitle: Choose your preferred plan – We’ll take care of the rest
+tags: ['Membership', 'Prices']
 title: Membership Plans
 type: pricing
 ---

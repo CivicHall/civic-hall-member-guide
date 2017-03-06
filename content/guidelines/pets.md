@@ -1,7 +1,7 @@
 ---
 date: 2017-03-06T08:15:51-05:00
 title: Pet & Service Animal Policy
-tags: ['In the Space']
+tags: ['Animals', 'In the Space']
 ---
 
 Civic Hall is responsible for assuring the health and safety of all. In keeping with this objective, Civic Hall has formulated a policy balancing these concerns with the desire to promote a positive experience by allowing appropriate service animals in the workspace. A service animal may be allowed in the workspace if its health and behavior are acceptable within a business setting, and if it does not adversely affect business operations. **Domestic pets that are not licensed service animals are not permitted at Civic Hall.**
