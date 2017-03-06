@@ -1,6 +1,7 @@
 ---
 title: "Civic Hall"
 date: 2017-03-02T12:00:00-05:00
+featured_image: /uploads/map.jpg
 ---
 'Stupid things!' Alice began in a loud, indignant voice, but she stopped  hastily, for the White Rabbit cried out, 'Silence in the court!' and the  King put on his spectacles and looked anxiously round, to make out who  was talking.
 
