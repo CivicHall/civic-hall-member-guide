@@ -20,7 +20,9 @@
 
       </div>
     {{ end }}
-<!-- TODO: Sort by alpha -->
+<!-- TODO: Sort by alpha
+      TODO: account for more than one tag. (case of "prices" not showing up on Memberhsip plans)
+-->
     {{ if .Params.tags }}
       <div class="mt5 f6 gray nested-lh-copy bg-light-gray ph3 pv2 measure-wide-l">
           {{ $name := index .Params.tags 0 }}

@@ -1,7 +1,32 @@
 ---
 date: 2017-03-06T10:33:10-05:00
-title: How Do I Reserve A Conference Room?
+title: How Do I Reserve A Conference Room? What does it Cost?
 tags: ['Prices', 'Conference Rooms']
+plans:
+  -
+    copy: "8 Seats"
+    heading: "Orange Room"
+    icon: /uploads/noun_684458.svg
+    price: 35
+    price_qualifier: "/month"
+  -
+    copy: "8 Seats"
+    heading: Red Room
+    icon: /uploads/noun_684458.svg
+    price: 35
+    price_qualifier: "/month"
+  -
+    copy: "12 seats"
+    heading: "Jr. Board Room"
+    icon: /uploads/noun_684458.svg
+    price: 40
+    price_qualifier: "/month"
+  -
+    copy: "12 - 16 seats"    
+    heading: Board Room
+    price: 65
+    price_qualifier: "/hour"
+
 ---
 All conference rooms and phones rooms must be reserved. Members can use phone rooms at no additional charge for up to 2 hours per day. 
 
@@ -17,8 +42,3 @@ All conference rooms and phones rooms must be reserved. Members can use phone ro
 8.  You will have up to 1 hour prior to your booking to cancel and make changes. **After that you will be responsible for the charges.**
 
 ### Conference and meeting room prices:
-
-Board Room - 12 - 16 seats at $65 per hour  
-Jr. Board Room - 12 seats at $40 per hour  
-Orange Room - 8 seats at $35 per hour  
-Red Room - 8 seats at $35 per hour  
