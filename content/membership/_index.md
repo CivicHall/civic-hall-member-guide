@@ -1,18 +1,18 @@
 ---
-title: "Membership Benefits"
+title: "Membership"
 date: 2017-03-02T12:00:00-05:00
 menu: main
 ---
 You are part of a membership community of over 1,000 individuals including representatives of over 100 organizations: social entrepreneurs, change-makers, government employees, hackers, academics, journalists, and artists. Together we are action-oriented, cross-sector professionals aiming to further the world of civic tech.
 
 
-[Membership Plans]({{< ref "membership-plans.md" >}})
+[Membership Plans]({{< ref "membership/plans.md" >}})
 
 [Membership Directory &#x2197;](http://civichall.spaces.nexudus.com/en/directory/members)
 
 [Slack]({{< ref "reference/how-to-use-slack.md" >}})
 
-[Ambassadors]({{< ref "membership-benefits/ambassadors.md" >}})
+[Ambassadors]({{< ref "membership/ambassadors.md" >}})
 
 [Events Calendar]({{< ref "events.md" >}})
 

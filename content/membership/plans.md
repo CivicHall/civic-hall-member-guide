@@ -3,9 +3,9 @@ date: 2017-03-04T15:05:26-05:00
 afterForm: "Organization Memberships
 If you are a team of 3 or more, you may be interested in an Organization Membership plan.
 For more info, email partnerships@civichall.org."
-menu:
-  main:
-  weight: 10
+#menu:
+#  main:
+#  weight: 10
 plans:
   -
     copy: "Access to the Community Space for activities and events or through the purchase of day passes at $35 each."    
