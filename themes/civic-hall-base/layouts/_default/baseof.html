@@ -15,7 +15,11 @@
 
      {{ .Hugo.Generator }}
 
-     {{ partial "seo/main" . }}
+      {{ if eq (getenv "HUGO_ENV") "production" }}
+          {{- partial "seo/main" . -}}
+      {{ else }}
+        <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+      {{ end }}
 
      <link href='/css/main.min.css?8977966' rel='stylesheet' type="text/css" />
      <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
