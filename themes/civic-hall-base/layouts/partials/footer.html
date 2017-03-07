@@ -1,6 +1,20 @@
 <footer class="cf fixed relative-l bg-primary-color bottom-0 w-100 pa4">
+  <div  id="myDIV" style="display:none;">
+      {{ partial "nav-links" . }}
+  </div>
 
-  <span class="f6 tc db mt4-ns ph3 pv2 link white hover-bg-primary-color ba b--white-40 w-60-ns">MENU</span>
-  <!-- {{ partial "nav-links" (dict "linkClasses" "f6 link white-90 db brand-font dim ma0 w-100 pv3 ph4" ) }} -->
+  <span onclick="myFunction()" class="f6 tc db mt4-ns ph3 pv2 link white hover-bg-primary-color ba b--white-40 w-60-ns">MENU</span>
+
 
 </footer>
+
+<script>
+function myFunction() {
+    var x = document.getElementById('myDIV');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>
