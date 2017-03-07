@@ -1,22 +1,29 @@
-{{ range sort (where .Data.Pages "Section" .Section) ".Title" }}
-  <div class="relative break-inside-avoid-l flex-auto fl mb4 w-100 w-40-nsTK ph4 pv3 mr4 gray bg-white shadow-5TK">
+<div class="relative {{ .classes }} weight-{{ .context.Weight }}">
 
+  <div class="{{ .context.Site.Data.globals.box_style_classes }}">
+    {{ if eq .context.Section "announcements" }}
+      <date class="f6">
+        {{ .context.Date.Format "January 2, 2006" }}
+      </date>
+    {{ end }}
 
-      {{ if eq .Section "announcements" }}
-      yas
+    <h1 class="near-black">
+      <a href="{{ .context.URL }}" class="link near-black dim">
+        {{ .context.Title }}
+      </a>
+    </h1>
+
+      {{if eq .fullcontent true }}
+          {{ .context.Content }}
+      {{ else }}
+        <p>
+          {{ .context.Content | markdownify | truncate 150 " | " }}
+        </p>
+        <div class="absolute bottom-0 right-0 mb2 mr3">
+          {{ partial "icon-link" (dict "url" .URL "color" "#357edd") }}
+        </div>
       {{ end }}
 
 
-    <h1 class="near-black">
-      <a href="{{ .URL }}" class="link near-black dim">
-        {{ .Title }}
-      </a>
-    </h1>
-    <p>
-      {{ .Summary }}
-    </p>
-    <div class="absolute bottom-0 right-0 mb2 mr3">
-      {{ partial "icon-link" (dict "url" .URL "color" "#357edd") }}
-    </div>
   </div>
-{{ end }}
+</div>

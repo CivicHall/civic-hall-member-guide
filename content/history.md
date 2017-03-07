@@ -1,9 +1,6 @@
 ---
 date: 2017-03-06T07:08:22-05:00
-title: History
-menu:
-  main:
-    weight: 17
+title: About Civic Hall
 ---
 [![](https://sites.google.com/a/civichall.org/membership-guide/_/rsrc/1480347989635/home/history/PDM.png?height=246&width=320)](https://sites.google.com/a/civichall.org/membership-guide/home/history/PDM.png?attredirects=0)
 

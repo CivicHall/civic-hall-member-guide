@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ $currentPageUrl := .URL }}
+{{ $globalVariables := .Site.Data.globals }}
   <article class="cf pa3 pa4-m pa5-l">
 
     <h4 class="f6">
@@ -8,10 +9,10 @@
     <h1>
       {{ .Title }}
     </h1>
-    <div class="{{ .Site.Params.copyClass }}">
+    <div class="{{ $globalVariables.copy_classes }}">
         {{ .Content }}
     </div>
-    
+
   {{ if .Params.plans }}
       <div class="flex-ns flex-wrap justify-between w-100 mt5 v-top b--primary-color">
 
@@ -45,7 +46,8 @@
 
 
     <div class="gray f6 mv6">
-      Last Update: {{ .Lastmod.Format "January 2, 2006" }}
+      Last Update: {{ .Lastmod.Format "January 2, 2006" }} <br>
+      {{ partial "edit-page" . }}
     </div>
 
 </article>

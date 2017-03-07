@@ -2,6 +2,7 @@
 date: 2017-03-05T13:08:53-05:00
 title: Ambassadors
 tags: ['Membership Benefits']
+weight: 98
 ---
 A Civic Hall Ambassador is **your link between the business of Civic Hall and the community of Civic Hall**. Every member of Civic Hall is assigned an Ambassador during their first week of membership.
 

@@ -1,7 +1,8 @@
 ---
 date: 2017-03-04T15:02:53-05:00
 title: Hours of Operation
-tags: 
+tags:
+weight: 100
 ---
 
 Monday - Friday   

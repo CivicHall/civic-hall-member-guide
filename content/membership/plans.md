@@ -39,5 +39,6 @@ subtitle: Choose your preferred plan – We’ll take care of the rest
 tags: ['Membership', 'Prices']
 title: Membership Plans
 type: pricing
+weight: 99
 ---
 Community is the cornerstone of Civic Hall. We are a membership community of over 1,000 individuals including representatives of over 100 organizations: social entrepreneurs, change-makers, government employees, hackers, academics, journalists, and artists. Together we are action-oriented, cross-sector professionals aiming to further the world of civic tech.

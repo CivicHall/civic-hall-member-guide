@@ -2,9 +2,10 @@
      {{ partial "hero" . }}
      <section class="relative w-100 bg-black white">
        <div class="flex flex-wrap">
-         {{ range first 4 (where .Data.Pages "Section" "announcements") }}
+         {{ range first 4 ( sort (where .Data.Pages "Section" "announcements") "Date" "desc" ) }}
+
          <a href="{{ .URL }}" class="link moon-gray f6 w-100 w-50-m w-20-l bg-animate hover-bg-light-blue hover-black pv3 pv4-l ph3 ph4-l dib">
-           <span class="f6 mid-gray pb1 db">{{ .Date.Format "Mon Jan 06, 2006" }} </span>
+           <span class="f6 mid-gray pb1 db">{{ .Date.Format "January 2, 2006" }} </span>
 
            {{ .Title}}
 
@@ -26,23 +27,16 @@
   {{ .Content }}
 </main>
 
-  <section class="pa4 mt5 {{ .Site.Params.section_two_column_classes }}">
-    {{ range (where .Data.Pages "Section" "basics") }}
-      <div class="break-inside-avoid-l mb4 gray bg-white ">
-        <div class="ph4 pv3">
-          <h1 class="near-black">
-            <a href="{{ .URL }}" class="link near-black dim">
-              {{ .Title }}
-            </a>
-          </h1>
-          <div class="lh-copy nested-links">
-            {{ .Content }}
-          </div>
+      {{ $globalVariables := .Site.Data.globals }}
 
-        </div>
-      </div>
-    {{ end }}
+        {{ $section_classes := $globalVariables.section_two_column_classes }}
+        {{ $interior_classes := $globalVariables.section_two_column_classes_interior }}
+        <section class="{{ $section_classes }} w-100 mt5 v-top pa4">
+            <!-- TODO: It doesn't look like the second sort parameter (interior) actually sorts -->
+          {{ range sort (sort (where .Data.Pages "Section" "basics") ".Title" "asc") ".Weight" "desc"  }}
+            {{ partial "section-boxes" (dict "context" . "classes" $interior_classes "fullcontent" true) }}
+          {{ end }}
+        </section>
 
-  </section>
 
 {{ end }}

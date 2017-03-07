@@ -2,8 +2,8 @@
 date: 2017-03-06T07:17:03-05:00
 title: Terms of Service
 tags: ['Legal', 'Membership']
+weight:
 ---
-
 Please read these Terms of Service carefully before deciding to use any of our sites or services. This is a contract between you and Civic Hall. We’ve tried to be as clear and straightforward as possible. Please feel free to contact us ([community@civichall.org](mailto:community@civichall.org)) if you have any recommendations or questions!
 
 These General Terms and Conditions of Use (“Terms”) are entered into by and between you and Civic Hall, a project of Personal Democracy Media d/b/a Personal Democracy Forum, LLC, (“Civic Hall”). In consideration of your use of and access to this Internet site, and other websites, services and apps on which these Terms are posted or expressly referenced (“Civic Hall Sites”), and the promises and obligations herein, and intending to be legally bound, you and Civic Hall hereby agree as follows:
