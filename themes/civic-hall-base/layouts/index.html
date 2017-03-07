@@ -1,42 +1,34 @@
 {{ define "hero" }}
-     {{ partial "hero" . }}
-     <section class="relative w-100 bg-black white">
-       <div class="flex flex-wrap">
-         {{ range first 4 ( sort (where .Data.Pages "Section" "announcements") "Date" "desc" ) }}
-
-         <a href="{{ .URL }}" class="link moon-gray f6 w-100 w-50-m w-20-l bg-animate hover-bg-light-blue hover-black pv3 pv4-l ph3 ph4-l dib">
-           <span class="f6 mid-gray pb1 db">{{ .Date.Format "January 2, 2006" }} </span>
-
-           {{ .Title}}
-
-
-
-         </a>
-           {{ end }}
-
-
-       <a href="/announcements" class="link gray f6 w-100 w-50-m w-20-l bg-animate hover-bg-light-blue hover-black pv3 pv4-l ph3 ph4-l dib">
-         more Announcements&nbsp;&raquo;
-       </a>
-       </div>
-     </section>
+  {{ partial "hero" . }}
+  <section class="relative w-100 bg-black white">
+    <div class="flex flex-wrap">
+      {{ range first 4 ( sort (where .Data.Pages "Section" "announcements") "Date" "desc" ) }}
+        <a href="{{ .URL }}" class="link moon-gray f6 w-100 w-50-m w-20-l bg-animate hover-bg-light-blue hover-black pv3 pv4-l ph3 ph4-l dib">
+          <span class="f6 mid-gray pb1 db">
+            {{ .Date.Format "January 2, 2006" }}
+          </span>
+          {{ .Title}}
+        </a>
+      {{ end }}
+      <a href="/announcements" class="link gray f6 w-100 w-50-m w-20-l bg-animate hover-bg-light-blue hover-black pv3 pv4-l ph3 ph4-l dib">
+        more Announcements&nbsp;&raquo;
+      </a>
+    </div>
+  </section>
 {{ end }}
 
 {{ define "main" }}
-<main class="cf ph3 ph5-l pv3 pv4-l f4 tc center measure-wide lh-copy gray">
-  {{ .Content }}
-</main>
+  <main class="cf ph3 ph5-l pv3 pv4-l f4 tc center measure-wide lh-copy gray">
+    {{ .Content }}
+  </main>
 
-      {{ $globalVariables := .Site.Data.globals }}
-
-        {{ $section_classes := $globalVariables.section_two_column_classes }}
-        {{ $interior_classes := $globalVariables.section_two_column_classes_interior }}
-        <section class="{{ $section_classes }} w-100 v-top pa4">
-            <!-- TODO: It doesn't look like the second sort parameter (interior) actually sorts -->
-          {{ range sort (sort (where .Data.Pages "Section" "basics") ".Title" "asc") ".Weight" "desc"  }}
-            {{ partial "section-boxes" (dict "context" . "classes" $interior_classes "fullcontent" true) }}
-          {{ end }}
-        </section>
-
-
+  {{ $globalVariables := .Site.Data.globals }}
+  {{ $section_classes := $globalVariables.section_two_column_classes }}
+  {{ $interior_classes := $globalVariables.section_two_column_classes_interior }}
+  <section class="{{ $section_classes }} w-100 v-top pa4">
+    <!-- TODO: It doesn't look like the second sort parameter (interior) actually sorts -->
+    {{ range sort (sort (where .Data.Pages "Section" "basics") ".Title" "asc") ".Weight" "desc"  }}
+      {{ partial "section-boxes" (dict "context" . "classes" $interior_classes "fullcontent" true) }}
+    {{ end }}
+  </section>
 {{ end }}
