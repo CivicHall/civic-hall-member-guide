@@ -1,8 +1,8 @@
 colors:
-  primary-color:        "#4E4D55"
-  primary-color-dark:   "#333"
-  primary-color-light:  "#555"
-  accent-color:         "#you"
+  primary-color:        "#2b2d42"
+  primary-color-dark:   "#4E4D55"
+  primary-color-light:  "#8d99ae"
+  accent-color:         "#F3F6F8"
   accent-color-light:   "red"
   accent-color-dark:    "wheat"
   text-color-primary:   "black"
