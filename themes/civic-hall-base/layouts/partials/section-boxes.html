@@ -1,5 +1,12 @@
 {{ range sort (where .Data.Pages "Section" .Section) ".Title" }}
-  <div class="relative break-inside-avoid-l flex-auto fl mb4 w-100 w-40-nsTK ph5 pv4 mr4 gray bg-white shadow-5TK">
+  <div class="relative break-inside-avoid-l flex-auto fl mb4 w-100 w-40-nsTK ph4 pv3 mr4 gray bg-white shadow-5TK">
+
+
+      {{ if eq .Section "announcements" }}
+      yas
+      {{ end }}
+
+
     <h1 class="near-black">
       <a href="{{ .URL }}" class="link near-black dim">
         {{ .Title }}
