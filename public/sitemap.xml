@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://membership-guide.civichall.org/membership/benefits/</loc>
+    <lastmod>2017-03-07T08:14:34-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://membership-guide.civichall.org/reference/conference-room-booking/</loc>
     <lastmod>2017-03-06T10:33:10-05:00</lastmod>
   </url>
@@ -112,7 +117,7 @@
   </url>
   
   <url>
-    <loc>https://membership-guide.civichall.org/about/history/</loc>
+    <loc>https://membership-guide.civichall.org/history/</loc>
     <lastmod>2017-03-06T07:08:22-05:00</lastmod>
   </url>
   
@@ -137,12 +142,12 @@
   </url>
   
   <url>
-    <loc>https://membership-guide.civichall.org/about/holiday-schedule/</loc>
+    <loc>https://membership-guide.civichall.org/basics/holiday-schedule/</loc>
     <lastmod>2017-03-04T15:03:04-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://membership-guide.civichall.org/about/hours/</loc>
+    <loc>https://membership-guide.civichall.org/basics/hours/</loc>
     <lastmod>2017-03-04T15:02:53-05:00</lastmod>
   </url>
   
@@ -192,7 +197,7 @@
   </url>
   
   <url>
-    <loc>https://membership-guide.civichall.org/about/</loc>
+    <loc>https://membership-guide.civichall.org/basics/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
   </url>
   
@@ -207,7 +212,7 @@
   </url>
   
   <url>
-    <loc>https://membership-guide.civichall.org/about/contact/</loc>
+    <loc>https://membership-guide.civichall.org/basics/contact/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
   </url>
   
@@ -258,7 +263,7 @@
   
   <url>
     <loc>https://membership-guide.civichall.org/tags/</loc>
-    <lastmod>2017-02-26T17:02:40-05:00</lastmod>
+    <lastmod>2017-03-07T08:14:34-05:00</lastmod>
     <priority>0</priority>
   </url>
   
