@@ -2465,6 +2465,10 @@ svgo@^0.7.0:
     sax "~1.2.1"
     whet.extend "~0.9.9"
 
+tachyons-print@^4.6.2:
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/tachyons-print/-/tachyons-print-4.6.2.tgz#504b8e83a62c0a2cec3f4e7ce3a3962b49aa78cb"
+
 tachyons@^4.6.1:
   version "4.6.2"
   resolved "https://registry.yarnpkg.com/tachyons/-/tachyons-4.6.2.tgz#cf006fd516763e735b33565fc21b8b3616a012c8"

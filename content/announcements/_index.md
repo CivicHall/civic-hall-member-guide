@@ -5,4 +5,3 @@ menu: main
 type: apis
 layout: list
 ---
-Announcements, mmmmm

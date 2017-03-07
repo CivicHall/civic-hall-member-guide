@@ -11,6 +11,7 @@ params:
   sidebar_direction: sidebar_left
   description: "Welcome to a community of action-oriented, cross-sector professionals located in the heart of Manhattan, where we aim to better the world through civic tech."
   copyClass: "nested-copy-line-height nested-links nested-img mid-gray measure-wide-l"
+  section_two_column_classes: "w-100 v-top column-count-2-l column-gap-1-l"
 
 taxonomies:
   tag: "tags"

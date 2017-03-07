@@ -2,12 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://membership-guide.civichall.org/membership-benefits/ambassadors/</loc>
+    <loc>https://membership-guide.civichall.org/reference/conference-room-booking/</loc>
+    <lastmod>2017-03-06T10:33:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/hosting-events-at-civic-hall/</loc>
+    <lastmod>2017-03-06T10:31:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/questions-about-membership/</loc>
+    <lastmod>2017-03-06T10:18:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/printer-scanner/</loc>
+    <lastmod>2017-03-06T10:15:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/bikes/</loc>
+    <lastmod>2017-03-06T10:14:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/storing-food/</loc>
+    <lastmod>2017-03-06T10:13:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/noise-level/</loc>
+    <lastmod>2017-03-06T10:10:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/is-there-a-lost-and-found/</loc>
+    <lastmod>2017-03-06T09:01:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/does-civic-hall-recycle/</loc>
+    <lastmod>2017-03-06T09:00:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/where-can-i-store-my-belongings/</loc>
+    <lastmod>2017-03-06T08:59:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/can-i-eat-in-the-community-space/</loc>
+    <lastmod>2017-03-06T08:56:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/deliveries/</loc>
+    <lastmod>2017-03-06T08:53:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/does-civic-hall-have-a-dress-code/</loc>
+    <lastmod>2017-03-06T08:50:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/is-civic-hall-open-on-weekends/</loc>
+    <lastmod>2017-03-06T08:49:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/animals-at-civic-hall/</loc>
+    <lastmod>2017-03-06T08:44:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/guidelines/pets/</loc>
+    <lastmod>2017-03-06T08:15:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/membership/slack-community/</loc>
+    <lastmod>2017-03-06T07:43:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/questions-about-billing/</loc>
+    <lastmod>2017-03-06T07:33:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/membership/billing-and-invoices/</loc>
+    <lastmod>2017-03-06T07:22:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/membership/data-use-policy/</loc>
+    <lastmod>2017-03-06T07:19:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/membership/terms-of-service/</loc>
+    <lastmod>2017-03-06T07:17:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/membership/membership-agreement/</loc>
+    <lastmod>2017-03-06T07:15:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/about/history/</loc>
+    <lastmod>2017-03-06T07:08:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/how-to-use-slack/</loc>
+    <lastmod>2017-03-05T23:55:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/guidelines/code-of-conduct/</loc>
+    <lastmod>2017-03-05T23:52:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/membership/ambassadors/</loc>
     <lastmod>2017-03-05T13:08:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://membership-guide.civichall.org/membership-plans/</loc>
+    <loc>https://membership-guide.civichall.org/membership/plans/</loc>
     <lastmod>2017-03-04T15:05:26-05:00</lastmod>
   </url>
   
@@ -62,11 +187,6 @@
   </url>
   
   <url>
-    <loc>https://membership-guide.civichall.org/test/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://membership-guide.civichall.org/announcements/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
   </url>
@@ -97,13 +217,73 @@
   </url>
   
   <url>
-    <loc>https://membership-guide.civichall.org/membership-benefits/</loc>
+    <loc>https://membership-guide.civichall.org/guidelines/events/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://membership-guide.civichall.org/resources/</loc>
+    <loc>https://membership-guide.civichall.org/membership/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/reference/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/announcements/rent-a-locker-for-50-per-month/</loc>
+    <lastmod>2017-02-26T17:02:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/announcements/member-newsletters-and-first-post/</loc>
+    <lastmod>2017-02-23T16:53:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/announcements/schools-out/</loc>
+    <lastmod>2017-02-22T16:58:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/announcements/big-apps-returns/</loc>
+    <lastmod>2017-02-21T16:59:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/announcements/volunteer-opportunity-with-civic-hall-labs/</loc>
+    <lastmod>2017-02-15T17:04:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/</loc>
+    <lastmod>2017-02-26T17:02:40-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/animals/</loc>
+    <lastmod>2017-03-06T08:44:31-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/billing/</loc>
+    <lastmod>2017-03-06T07:33:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/conference-rooms/</loc>
+    <lastmod>2017-03-06T10:33:10-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/series/frequently-asked-questions/</loc>
+    <lastmod>2017-03-06T08:44:31-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -113,7 +293,60 @@
   </url>
   
   <url>
+    <loc>https://membership-guide.civichall.org/tags/in-the-space/</loc>
+    <lastmod>2017-03-06T10:14:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/legal/</loc>
+    <lastmod>2017-03-06T07:19:25-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/membership/</loc>
+    <lastmod>2017-03-06T10:18:18-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/membership-benefits/</loc>
+    <lastmod>2017-03-06T07:43:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/prices/</loc>
+    <lastmod>2017-03-06T10:33:10-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/security/</loc>
+    <lastmod>2017-03-04T14:38:47-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/slack/</loc>
+    <lastmod>2017-03-06T07:43:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://membership-guide.civichall.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://membership-guide.civichall.org/tags/technology/</loc>
+    <lastmod>2017-03-06T10:15:24-05:00</lastmod>
     <priority>0</priority>
   </url>
   

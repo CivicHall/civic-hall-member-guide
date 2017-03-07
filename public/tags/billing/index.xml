@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Billing on Membership Guide</title>
+    <link>https://membership-guide.civichall.org/tags/billing/index.xml</link>
+    <description>Recent content in Billing on Membership Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://membership-guide.civichall.org/tags/billing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Questions about Billing</title>
+      <link>https://membership-guide.civichall.org/reference/questions-about-billing/</link>
+      <pubDate>Mon, 06 Mar 2017 07:33:41 -0500</pubDate>
+      
+      <guid>https://membership-guide.civichall.org/reference/questions-about-billing/</guid>
+      <description>&lt;p&gt;Contact our Operations Team by emailing &lt;strong&gt;info@civichall.org&lt;/strong&gt; for questions regarding:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Payments&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Billing/Invoices&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Changing membership plans&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cancelling membership&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you have questions about your &lt;a href=&#34;https://sites.google.com/a/civichall.org/membership-guide/resources/membership-benefits&#34;&gt;membership benefits&lt;/a&gt;, please email our Community Team at community@civichall.org.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Billing and Invoices</title>
+      <link>https://membership-guide.civichall.org/membership/billing-and-invoices/</link>
+      <pubDate>Mon, 06 Mar 2017 07:22:29 -0500</pubDate>
+      
+      <guid>https://membership-guide.civichall.org/membership/billing-and-invoices/</guid>
+      <description>&lt;p&gt;To see your bill or retrieve invoices, log in to &lt;a href=&#34;https://civichall.spaces.nexudus.com/en/invoices&#34;&gt;Nexudus&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

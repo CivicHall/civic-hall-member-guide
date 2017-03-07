@@ -8,7 +8,10 @@
   "license": "MIT",
   "scripts": {
     "build:css": "postcss -c 'src/css/postcss.config.js'",
-    "copy:css": "rm -rf 'src/css/tachyons' && copyfiles -f 'node_modules/tachyons/src/*.css' 'src/css/tachyons/'",
+
+    "copy:css": "rm -rf 'src/css/tachyons' && copyfiles -f 'node_modules/tachyons/src/*.css' 'src/css/tachyons/' && copyfiles -f node_modules/tachyons-print/css/tachyons-print.min.css ./../static/css",
+
+
     "watch:css": "onchange 'src/css/**/*.css' -- run-s build:css",
     "critical:css": "critical public/index.html --base public --minify --css public/assets/css/main.css > src/_includes/global/critical.css",
     "start": "npm run build:css && npm run watch:css"
@@ -21,6 +24,8 @@
     "postcss-cssnext": "^2.9.0",
     "postcss-import": "^9.0.0",
     "tachyons": "^4.6.1",
+    "tachyons-print": "^4.6.2",
     "webpack": "2.2.0-rc.3"
-  }
+  },
+  "dependencies": {}
 }
