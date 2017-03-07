@@ -13,16 +13,24 @@
       </a>
     </h1>
 
-      {{if eq .fullcontent true }}
-          {{ .context.Content }}
+    <div class="nested-links">
+      {{ if eq .fullcontent true }}
+        {{ .context.Content }}
       {{ else }}
         <p>
-          {{ .context.Content | markdownify | truncate 150 " | " }}
+
+          {{ .context.Summary  }}
         </p>
+        {{ if or (.context.Truncated) (.context.Params.plans) }}
+          <a href="{{ .context.RelPermalink }}" class="link f6">
+            Read More &raquo;
+          </a>
+        {{ end }}
         <div class="absolute bottom-0 right-0 mb2 mr3">
-          {{ partial "icon-link" (dict "url" .URL "color" "#357edd") }}
+          {{ partial "icon-link" (dict "url" .context.URL "color" "#bbb") }}
         </div>
       {{ end }}
+    </div>
 
 
   </div>

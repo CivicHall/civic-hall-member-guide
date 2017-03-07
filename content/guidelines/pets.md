@@ -1,10 +1,13 @@
 ---
 date: 2017-03-06T08:15:51-05:00
+description: "Domestic pets that are not licensed service animals are not permitted at Civic Hall."
 title: Pet & Service Animal Policy
 tags: ['Animals', 'In the Space']
 ---
+Domestic pets that are not licensed service animals are not permitted at Civic Hall.
 
-Civic Hall is responsible for assuring the health and safety of all. In keeping with this objective, Civic Hall has formulated a policy balancing these concerns with the desire to promote a positive experience by allowing appropriate service animals in the workspace. A service animal may be allowed in the workspace if its health and behavior are acceptable within a business setting, and if it does not adversely affect business operations. **Domestic pets that are not licensed service animals are not permitted at Civic Hall.**
+ <!--more-->
+Civic Hall is responsible for assuring the health and safety of all. In keeping with this objective, Civic Hall has formulated a policy balancing these concerns with the desire to promote a positive experience by allowing appropriate service animals in the workspace. A service animal may be allowed in the workspace if its health and behavior are acceptable within a business setting, and if it does not adversely affect business operations.
 
 An employee, or a member, who requires the help of a service animal (defined by 28 CFR 36.104 as "any dog that is individually trained to do work or perform tasks for the benefit of an individual with a disability") will be permitted to bring a service animal to the workspace, provided that the animal’s presence does not create a danger to others and does not impose an undue hardship upon the company.
 

@@ -13,13 +13,12 @@
         {{ .Content }}
     </div>
 
-  {{ if .Params.plans }}
+    {{ if .Params.plans }}
       <div class="flex-ns flex-wrap justify-between w-100 mt5 v-top b--primary-color">
-
-          {{ partial "plans" .}}
-
+        {{ partial "plans" .}}
       </div>
     {{ end }}
+
 <!-- TODO: Sort by alpha
       TODO: account for more than one tag. (case of "prices" not showing up on Memberhsip plans)
 -->
@@ -44,12 +43,10 @@
           </div>
         {{end}}
 
+      <div class="gray f6 mv6">
+        Last Update: {{ .Lastmod.Format "January 2, 2006" }} <br>
+        {{ partial "edit-page" . }}
+      </div>
 
-    <div class="gray f6 mv6">
-      Last Update: {{ .Lastmod.Format "January 2, 2006" }} <br>
-      {{ partial "edit-page" . }}
-    </div>
-
-</article>
-
+  </article>
 {{ end }}
