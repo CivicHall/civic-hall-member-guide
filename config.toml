@@ -53,6 +53,9 @@ DefaultContentLanguage = "en"
   map_link = "https://www.google.com/maps/place/Civic+Hall/@40.742284,-73.9962257,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259a3a3340f3d:0xba4060a01c13cc2a!8m2!3d40.74228!4d-73.994037"
 
   ghcontentdir = "https://github.com/theNewDynamic/civic-hall-member-guide/tree/master/content"
+  twitter = "https://twitter.com/CivicHall"
+  facebook = "https://www.facebook.com/CivicHallNYC"
+  instagram = "https://www.instagram.com/civichall/"
 
 [taxonomies]
   tag = "tags"
