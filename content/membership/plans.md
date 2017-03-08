@@ -1,11 +1,5 @@
 ---
 date: 2017-03-04T15:05:26-05:00
-afterForm: "Organization Memberships
-If you are a team of 3 or more, you may be interested in an Organization Membership plan.
-For more info, email partnerships@civichall.org."
-#menu:
-#  main:
-#  weight: 10
 plans:
   -
     copy: "Access to the Community Space for activities and events or through the purchase of day passes at $35 each."    
@@ -34,11 +28,8 @@ plans:
    copy: "If you are a team of 3 or more, you may be interested in an Organization Membership plan.
 For more info, email <partnerships@civichall.org>."
    heading: Organization Memberships
-
-subtitle: Choose your preferred plan – We’ll take care of the rest
 tags: ['Membership', 'Prices']
 title: Membership Plans
-type: pricing
 weight: 99
 ---
 Community is the cornerstone of Civic Hall. We are a membership community of over 1,000 individuals including representatives of over 100 organizations: social entrepreneurs, change-makers, government employees, hackers, academics, journalists, and artists. Together we are action-oriented, cross-sector professionals aiming to further the world of civic tech.
