@@ -22,12 +22,12 @@
       {{ end }}
       {{- partial "manifest" . -}}
 
-     <link href='/css/main.min.css?8955966' rel='stylesheet' type="text/css" />
-     <link href='/css/tachyons-print.min.css' rel='stylesheet' type="text/css" media="print" />
-     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+     <link href='/css/main.min.css' rel='stylesheet' type="text/css" />
+     <!-- <link href='/css/tachyons-print.min.css' rel='stylesheet' type="text/css" media="print" /> -->
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
       {{ block "css" . }}
-           {{- partialCached "color-palette" . -}}
-          {{ end }}
+        {{- partialCached "color-palette" . -}}
+      {{ end }}
 
 
   </head>

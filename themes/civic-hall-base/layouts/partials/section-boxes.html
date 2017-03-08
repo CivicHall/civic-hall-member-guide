@@ -13,16 +13,15 @@
       </a>
     </h1>
 
-    <div class="nested-links f6">
+    <div class="nested-links f5 nested-copy-line-height">
       {{ if eq .fullcontent true }}
         {{ .context.Content }}
       {{ else }}
         <p>
-
           {{ .context.Summary  }}
         </p>
         {{ if or (.context.Truncated) (.context.Params.plans) }}
-          <a href="{{ .context.RelPermalink }}" class="link accent-color dim f6">
+          <a href="{{ .context.RelPermalink }}" class="link accent-color hover-black dim f6">
             Read More &raquo;
           </a>
         {{ end }}

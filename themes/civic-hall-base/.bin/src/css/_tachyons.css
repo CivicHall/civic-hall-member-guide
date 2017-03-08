@@ -30,7 +30,7 @@
 
 /* Modules */
 @import 'tachyons/_box-sizing';
-@import 'tachyons/_aspect-ratios';
+/*@import 'tachyons/_aspect-ratios';*/
 @import 'tachyons/_images';
 @import 'tachyons/_background-size';
 @import 'tachyons/_background-position';
@@ -47,7 +47,7 @@
 @import 'tachyons/_display';
 @import 'tachyons/_flexbox';
 @import 'tachyons/_floats';
-@import 'tachyons/_font-family';
+/*@import 'tachyons/_font-family';*/
 @import 'tachyons/_font-style';
 @import 'tachyons/_font-weight';
 @import 'tachyons/_forms';

@@ -3,3 +3,12 @@
 @import '_side-nav';
 @import '_columns';
 .nested-links a {color: #d90429 }
+.sans-serif {
+  font-family: 'Open Sans',
+               'avenir next', avenir,
+               'helvetica neue', helvetica,
+               ubuntu,
+               roboto, noto,
+               'segoe ui', arial,
+               sans-serif;
+}
