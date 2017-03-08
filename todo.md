@@ -1,0 +1,8 @@
+- account for more than one tag. (case of "prices" not showing up on Memberhsip plans) __TODO__ [themes/civic-hall-base/layouts/_default/single.html](themes/civic-hall-base/layouts/_default/single.html)
+- It doesn't look like the second sort parameter (interior) actually sorts __TODO__ [themes/civic-hall-base/layouts/_default/list.html](themes/civic-hall-base/layouts/_default/list.html)
+- It doesn't look like the second sort parameter (interior) actually sorts __TODO__ [themes/civic-hall-base/layouts/index.html](themes/civic-hall-base/layouts/index.html)
+- Not getting ismenucurrent __TODO__ [themes/civic-hall-base/layouts/partials/nav-links.html](themes/civic-hall-base/layouts/partials/nav-links.html)
+- opengraph ! __TODO__ [themes/civic-hall-base/layouts/partials/seo/opengraph.html](themes/civic-hall-base/layouts/partials/seo/opengraph.html)
+- Paginate posts __TODO__ [themes/civic-hall-base/layouts/section/announcements.html](themes/civic-hall-base/layouts/section/announcements.html)
+- Sort by alpha __TODO__ [themes/civic-hall-base/layouts/_default/single.html](themes/civic-hall-base/layouts/_default/single.html)
+- These need to be sorted by the order they are given in the globals file. Now they are random __TODO__ [themes/civic-hall-base/layouts/partials/color-palette.html](themes/civic-hall-base/layouts/partials/color-palette.html)
