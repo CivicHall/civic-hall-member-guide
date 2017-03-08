@@ -1,7 +1,9 @@
 ---
 date: 2017-03-06T08:44:31-05:00
 title: "Are Pets, Dogs, Cats or Other Animals Allowed At Civic Hall? Are Service Animals Allowed?"
-tags: ['Animals', 'In the Space']
+tags:
+ - Animals
+ - "In the Space"
 series: ['Frequently Asked Questions']
 ---
 

@@ -1,7 +1,8 @@
 ---
 date: 2017-03-04T14:28:48-05:00
 title: Guest Policy
-tags: ['Guests']
+tags:
+ - Guests
 ---
 Members can have a guest in the space for up to 3 hours at no charge. If you need your guest to stay past 3 hours, you will be charged a $35 day pass.
 

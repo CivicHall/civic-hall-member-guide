@@ -2,7 +2,9 @@
 date: 2017-03-06T08:15:51-05:00
 description: "Domestic pets that are not licensed service animals are not permitted at Civic Hall."
 title: Pet & Service Animal Policy
-tags: ['Animals', 'In the Space']
+tags:
+ - Animals
+ - "In the Space"
 ---
 Domestic pets that are not licensed service animals are not permitted at Civic Hall.
 

@@ -1,7 +1,9 @@
 ---
 date: 2017-03-06T10:33:10-05:00
 title: How Do I Reserve A Conference Room? What does it Cost?
-tags: ['Prices', 'Conference Rooms']
+tags:
+  - Prices
+  - 'Conference Rooms'
 plans:
   -
     copy: "8 Seats"

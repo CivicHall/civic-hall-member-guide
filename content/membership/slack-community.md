@@ -1,7 +1,9 @@
 ---
 date: 2017-03-06T07:43:36-05:00
 title: Slack Community
-tags: ['Slack', 'Membership Benefits']
+tags:
+ - Slack
+ - Membership Benefits'
 weight: 95
 ---
 

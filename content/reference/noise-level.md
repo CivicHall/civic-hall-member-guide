@@ -1,7 +1,8 @@
 ---
 date: 2017-03-06T10:10:31-05:00
 title: What Are The Guidelines On Noise Level?
-tags: ['In the Space']
+tags: 
+  - "In the Space"
 ---
 
 The community space was designed to promote collaboration and connection. This is a place where **interaction and conversations are encouraged**.

@@ -1,7 +1,9 @@
 ---
 date: 2017-03-06T07:15:20-05:00
 title: Membership Agreement
-tags: ['Legal', 'Membership']
+tags:
+ - Legal
+ - Membership
 ---
 These Membership Terms and Conditions (“Terms”) are entered into by and between you and Civic Hall, LLC, a project of Personal Democracy Media d/b/a Personal Democracy Forum, LLC (“Civic Hall”), and govern your application and membership with Civic Hall. Please read these Terms carefully before submitting an application. Feel free to contact us at [info@civichall.org](mailto:info@civichall.org) with any questions regarding these terms.
 

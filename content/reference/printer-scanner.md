@@ -1,7 +1,8 @@
 ---
 date: 2017-03-06T10:15:24-05:00
 title: How Do I Connect To The Printer/Scanner?
-tags: ['Technology']
+tags:
+  - Technology
 ---
 Please use the printer for **SMALL PRINT JOBS** only (less than 20 pages). 
 

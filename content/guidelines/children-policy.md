@@ -1,7 +1,8 @@
 ---
 date: 2017-03-04T14:37:34-05:00
 title: Children Policy
-tags: ['Guests']
+tags:
+ - Guests
 ---
 Your children are welcome at Civic Hall for the occasional need. Please be mindful that Civic Hall is designed as a work environment.
 

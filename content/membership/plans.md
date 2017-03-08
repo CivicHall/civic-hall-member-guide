@@ -28,7 +28,9 @@ plans:
    copy: "If you are a team of 3 or more, you may be interested in an Organization Membership plan.
 For more info, email <partnerships@civichall.org>."
    heading: Organization Memberships
-tags: ['Membership', 'Prices']
+tags:
+  - Membership
+  - Prices
 title: Membership Plans
 weight: 99
 ---

@@ -1,7 +1,9 @@
 ---
 date: 2017-03-06T07:17:03-05:00
 title: Terms of Service
-tags: ['Legal', 'Membership']
+tags:
+ - Legal
+ - Membership
 weight:
 ---
 Please read these Terms of Service carefully before deciding to use any of our sites or services. This is a contract between you and Civic Hall. We’ve tried to be as clear and straightforward as possible. Please feel free to contact us ([community@civichall.org](mailto:community@civichall.org)) if you have any recommendations or questions!

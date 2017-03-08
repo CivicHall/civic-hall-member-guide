@@ -1,7 +1,8 @@
 ---
 date: 2017-03-06T10:13:37-05:00
 title: Where Can I Keep My Food?
-tags: ['In the Space']
+tags: 
+  - "In the Space"
 ---
 
 There is a refrigerator in the kitchen. Label your food and leave it there during the day, but **do not leave it overnight**. 

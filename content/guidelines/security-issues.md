@@ -1,7 +1,8 @@
 ---
 date: 2017-03-04T14:38:47-05:00
 title: Security Issues
-tags: ['Security']
+tags:
+ - Security
 ---
 Emergencies - Please call 911 immediately.
 

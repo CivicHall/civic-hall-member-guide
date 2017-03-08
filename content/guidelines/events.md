@@ -1,7 +1,8 @@
 ---
 date: 2017-03-02T12:00:00-05:00
 title: "Events"
-tags: []
+tags:
+  - 
 ---
 As a collaboration center, we will often have activities and events happening in the space.
 All members are welcome to attend events that are listed with details.
