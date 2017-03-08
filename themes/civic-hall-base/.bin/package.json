@@ -8,10 +8,8 @@
   "license": "MIT",
   "scripts": {
     "build:css": "postcss -c 'src/css/postcss.config.js'",
-
-    "copy:css": "rm -rf 'src/css/tachyons' && copyfiles -f 'node_modules/tachyons/src/*.css' 'src/css/tachyons/' && copyfiles -f node_modules/tachyons-print/css/tachyons-print.min.css ./../static/css",
-
-
+    "copy:css": "rm -rf 'src/css/tachyons' && copyfiles -f 'node_modules/tachyons/src/*.css' 'src/css/tachyons/' && copyfiles -f node_modules/tachyons-print/css/tachyons-print.min.css ./../static/css && copyfiles -f 'node_modules/typeface-open-sans/index.css' 'src/css'",
+    "copy:fonts": "rm -rf 'src/fonts' && copyfiles -f 'node_modules/typeface-open-sans/files/*.*' './../static/files' && copyfiles -f node_modules/tachyons-print/css/tachyons-print.min.css ./../static/css",
     "watch:css": "onchange 'src/css/**/*.css' -- run-s build:css",
     "critical:css": "critical public/index.html --base public --minify --css public/assets/css/main.css > src/_includes/global/critical.css",
     "start": "npm run build:css && npm run watch:css"
@@ -25,6 +23,7 @@
     "postcss-import": "^9.0.0",
     "tachyons": "^4.6.1",
     "tachyons-print": "^4.6.2",
+    "typeface-open-sans": "0.0.22",
     "webpack": "2.2.0-rc.3"
   },
   "dependencies": {}
