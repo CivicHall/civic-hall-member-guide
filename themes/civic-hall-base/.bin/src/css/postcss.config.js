@@ -18,7 +18,7 @@ module.exports = {
       removeAll: true
     },
     autoprefixer: {
-      'browsers': '> 3%'
+      'browsers': '> 5%'
     }
   }
 }

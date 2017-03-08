@@ -1,3 +1,10 @@
+{{ define "hero" }}
+  {{ if .Params.featured_image }}
+  {{ partial "hero-interior" .}}
+  {{ end}}
+{{ end }}
+
+
 {{ define "main" }}
 {{ $currentPageUrl := .URL }}
 {{ $globalVariables := .Site.Data.globals }}
@@ -6,7 +13,7 @@
     <h4 class="f6">
       {{ humanize .Section | upper  }}
     </h4>
-    <h1>
+    <h1 class="primary-color">
       {{ .Title }}
     </h1>
     <div class="{{ $globalVariables.copy_classes }}">

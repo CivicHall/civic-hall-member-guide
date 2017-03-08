@@ -1,8 +1,9 @@
 ---
 date: 2017-03-06T07:08:22-05:00
 title: About Civic Hall
+featured_image: /uploads/Civic-Hall-118W22-6.jpg
 ---
-[![](https://sites.google.com/a/civichall.org/membership-guide/_/rsrc/1480347989635/home/history/PDM.png?height=246&width=320)](https://sites.google.com/a/civichall.org/membership-guide/home/history/PDM.png?attredirects=0)
+![Personal Democracy Media Logo](/uploads/civic-hallPDM.png)
 
 [Civic Hall emerged](http://www.gothamgazette.com/index.php/government/5519-in-new-civic-tech-hub-a-family-legacy-of-community-building-continues) from the connections that evolved over the first ten years of the [**Personal Democracy Forum**](http://go.personaldemocracy.com/) conference,
 run by [Personal Democracy Media](https://personaldemocracy.com/about-us).

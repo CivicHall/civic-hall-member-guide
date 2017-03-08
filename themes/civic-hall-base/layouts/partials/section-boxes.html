@@ -8,7 +8,7 @@
     {{ end }}
 
     <h1 class="f3 near-black">
-      <a href="{{ .context.URL }}" class="link near-black dim">
+      <a href="{{ .context.URL }}" class="link primary-color dim">
         {{ .context.Title }}
       </a>
     </h1>
@@ -22,7 +22,7 @@
           {{ .context.Summary  }}
         </p>
         {{ if or (.context.Truncated) (.context.Params.plans) }}
-          <a href="{{ .context.RelPermalink }}" class="link f6">
+          <a href="{{ .context.RelPermalink }}" class="link accent-color dim f6">
             Read More &raquo;
           </a>
         {{ end }}

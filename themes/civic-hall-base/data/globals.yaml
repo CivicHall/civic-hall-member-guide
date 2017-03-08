@@ -3,7 +3,7 @@ colors:
   primary-color-dark:   "#4E4D55"
   primary-color-light:  "#8d99ae"
   accent-color:         "#F3F6F8"
-  accent-color-light:   "red"
+  accent-color-light:   "#d90429"
   accent-color-dark:    "wheat"
   text-color-primary:   "black"
   text-on-primary-color:   "#fff"

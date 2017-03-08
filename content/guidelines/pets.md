@@ -63,4 +63,4 @@ Civic Hall may, at its discretion, require the service animal owner to maintain 
 **Civic Hall shall not be liable for loss of, or injury to, any animal brought to the office. **
 
 
-![](/uploads/reference-nyc-service-animals.jpg)
+![NYC Service Animals Reference](/uploads/reference-nyc-service-animals.jpg)

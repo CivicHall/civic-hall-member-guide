@@ -1,7 +1,13 @@
+{{ define "hero" }}
+  {{ if .Params.featured_image }}
+  {{ partial "hero-interior" .}}
+  {{ end}}
+{{ end }}
+
 {{ define "main" }}
 {{ $globalVariables := .Site.Data.globals }}
   <article class="cf pa3 pa4-m pa4-l nested-copy-line-height nested-img">
-    <h1>
+    <h1 class="primary-color">
       {{ .Title }}
     </h1>
     <div class="{{ .Site.Params.copyClass }}">
