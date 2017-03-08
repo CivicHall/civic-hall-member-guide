@@ -1,7 +1,7 @@
 ---
 date: 2017-02-15T17:04:50-05:00
 tags:
-- ""
+ - ""
 title: Volunteer Opportunity With Civic Hall Labs
 ---
 
