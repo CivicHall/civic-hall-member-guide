@@ -30,7 +30,7 @@
 
 <!-- TODO: add Search -->
   </head>
-  <body class="w-100 vh-100 sans-serif bg-accent-color {{ .Site.Params.sidebar_direction }}">
+  <body class="w-100 vh-100 sans-serif bg-accent-color {{ .Site.Params.sidebar_direction }}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "nav" . }}{{ partial "nav-side" . }}{{ end }}
 
