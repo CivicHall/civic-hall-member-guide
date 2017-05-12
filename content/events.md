@@ -1,8 +1,9 @@
 ---
-title: "Events"
-date: 2017-03-02T12:00:00-05:00
+title: Events
+date: '2017-03-02T12:00:00-05:00'
 type: full-width
-featured_image: /uploads/international-womens-day.jpg
+featured_image: "/uploads/yolanda-sun-44470.jpg"
+
 ---
 As a collaboration center, we will often have activities and events happening in the space.
 All members are welcome to attend events that are listed with details.
