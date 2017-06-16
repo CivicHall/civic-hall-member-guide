@@ -2,7 +2,7 @@
 title: Events
 date: '2017-03-02T12:00:00-05:00'
 type: full-width
-featured_image: "/uploads/yolanda-sun-44470.jpg"
+featured_image: "/uploads/16487156_1621431304550062_7978256565625584672_o.jpg"
 
 ---
 As a collaboration center, we will often have activities and events happening in the space.
