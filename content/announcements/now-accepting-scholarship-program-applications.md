@@ -7,4 +7,4 @@ featured_image: ''
 ---
 
 
-We are now accepting applications for the upcoming Scholarship Cycle. Submissions will be accepted until June 30th, 2017 and the cycle's duration is from August 1st- January 31st. If your organization is interested in applying or would like more information on the program, please check www.civichall.org/scholarships.
+We are now accepting applications for the upcoming Scholarship Cycle. Submissions will be accepted until June 30th, 2017 and the cycle's duration is from August 1st- January 31st. If your organization is interested in applying or would like more information on the program, please check [www.civichall.org/scholarships](http://www.civichall.org/scholarships).
