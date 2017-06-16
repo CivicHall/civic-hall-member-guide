@@ -7,4 +7,4 @@ featured_image: ''
 ---
 
 
-See your writing here! Civic Hall is hiring a Communications Manager: We need your help! If you are interested in joining our team, please submit your resume and cover letter to jobs@civichall.org.
+See your writing here! Civic Hall is hiring a Communications Manager: We need your help! If you are interested in joining our team, please submit your resume and cover letter to [jobs@civichall.org](mailto:jobs@civichall.org).
