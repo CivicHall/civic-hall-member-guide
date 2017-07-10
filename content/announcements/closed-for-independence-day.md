@@ -3,7 +3,6 @@ title: Closing Early for Independence Day Weekend
 date: '2017-06-30T17:26:22+00:00'
 tags: []
 featured_image: ''
-draft: true
 
 ---
 
