@@ -1,7 +1,7 @@
 ---
 title: Civic Hall Member Guide
-date: '2017-03-02T12:00:00-05:00'
-featured_image: "/uploads/map.jpg"
+date: 2017-03-02 12:00:00 -0500
+featured_image: "/uploads/civic_hall_header_image.jpg"
 type: page
 
 ---
