@@ -6,3 +6,6 @@ featured_image: ''
 draft: true
 
 ---
+
+
+Civic Hall will be open our regular ours (8:30 a.m. to 7 p.m.) on Columbus Day - Monday, October 9, 2017
