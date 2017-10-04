@@ -1,0 +1,30 @@
+---
+pages:
+- announcements/organizer-in-residence-program.md
+- announcements/closed-for-independence-day.md
+- announcements/rental-equipment-reminder.md
+- announcements/meet-our-summer-interns.md
+- announcements/now-accepting-scholarship-program-applications.md
+- announcements/we-re-hiring-a-communications-manager.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: featured_image
+  label: Featured image
+  type: text
+  hidden: false
+  default: ''
