@@ -1,64 +1,51 @@
-languageCode = "en-us"
-title = "Membership Guide"
-baseURL = "https://membership-guide.civichall.org"
-theme = "civic-hall-base"
-MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-#SectionPagesMenu = "main"
-
+MetaDataFormat = "yaml"
+baseURL = "https://membership-guide.civichall.org"
+languageCode = "en-us"
+theme = "civic-hall-base"
+title = "Membership Guide"
 [[menu.main]]
-  name = "Announcements"
-  weight = 1
-  identifier = "announcements"
-  url = "/announcements/"
-
+identifier = "history"
+name = "About Civic Hall"
+url = "/history/"
+weight = 25
 [[menu.main]]
-  name = "Events"
-  weight = 5
-  identifier = "events"
-  url = "/events/"
-
+identifier = "reference"
+name = "FAQs"
+url = "/reference/"
+weight = 20
 [[menu.main]]
-  name = "Membership"
-  weight = 10
-  identifier = "membership"
-  url = "/membership/"
-
+identifier = "guidelines"
+name = "Guidelines & Policies"
+url = "/guidelines/"
+weight = 15
 [[menu.main]]
-  name = "Guidelines & Policies"
-  weight = 15
-  identifier = "guidelines"
-  url = "/guidelines/"
-
+identifier = "membership"
+name = "Membership"
+url = "/membership/"
+weight = 10
 [[menu.main]]
-  name = "FAQs"
-  weight = 20
-  identifier = "reference"
-  url = "/reference/"
-
+identifier = "events"
+name = "Events"
+url = "/events/"
+weight = 5
 [[menu.main]]
-  name = "About Civic Hall"
-  weight = 25
-  identifier = "history"
-  url = "/history/"
-
-
-
-
+identifier = "announcements"
+name = "Announcements"
+url = "/announcements/"
+weight = 1
 [params]
-  logo = "/uploads/logo-civic-hall-boxed.svg"
-  member_log_in = "http://civichall.spaces.nexudus.com/en/"
-  sidebar_direction = "sidebar_left"
-  description = "Welcome to a community of action-oriented, cross-sector professionals located in the heart of Manhattan, where we aim to better the world through civic tech."
-  hero_link = "https://www.google.com/maps/place/Civic+Hall/@40.742284,-73.9962257,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259a3a3340f3d:0xba4060a01c13cc2a!8m2!3d40.74228!4d-73.994037"
-  hero_copy = "Link to Map"
-
-  ghcontentdir = "https://github.com/theNewDynamic/civic-hall-member-guide/tree/master/content"
-  twitter = "https://twitter.com/CivicHall"
-  facebook = "https://www.facebook.com/CivicHallNYC"
-  instagram = "https://www.instagram.com/civichall/"
-
+description = "Welcome to a community of action-oriented, cross-sector professionals located in the heart of Manhattan, where we aim to better the world through civic tech."
+facebook = "https://www.facebook.com/CivicHallNYC"
+ghcontentdir = "https://github.com/theNewDynamic/civic-hall-member-guide/tree/master/content"
+hero_copy = ""
+hero_link = ""
+instagram = "https://www.instagram.com/civichall/"
+logo = "/uploads/logo-civic-hall-boxed.svg"
+member_log_in = "http://civichall.spaces.nexudus.com/en/"
+sidebar_direction = "sidebar_left"
+twitter = "https://twitter.com/CivicHall"
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  series = "series"
+category = "categories"
+series = "series"
+tag = "tags"
