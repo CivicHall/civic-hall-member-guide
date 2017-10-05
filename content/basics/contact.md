@@ -1,9 +1,9 @@
 ---
 title: Contact
-date: '2017-03-02T12:00:00-05:00'
+date: 2017-03-02 12:00:00 -0500
 tags: []
 
 ---
 
 
-write to [welcome@civichall.org](mailto:welcome@civichall.org)
+Write to [c](mailto:welcome@civichall.org)ommunity@civichall.org
