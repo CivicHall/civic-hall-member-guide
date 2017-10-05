@@ -1,9 +1,10 @@
 ---
-date: 2017-03-04T14:28:48-05:00
+date: 2017-03-04 14:28:48 -0500
 title: Guest Policy
 tags:
- - Guests
----
-Members can have a guest in the space for up to 3 hours at no charge. If you need your guest to stay past 3 hours, you will be charged a $35 day pass.
+- Guests
 
-All guests must sign in when they arrive, and sign out when they leave. If your guest leaves and does not sign out, we will assume they stayed past the 3 hour limit and your account will be charged $35 for a day pass.
+---
+
+
+Members are welcome to have guests in the space for meetings, visits, and work sessions. We ask that your guests respect our community guidelines and sign in when they arrive. Guests can stay up to 3 hours free of charge. If guests would like to stay a full-day, we ask that you pay $35 for a day pass for them.
