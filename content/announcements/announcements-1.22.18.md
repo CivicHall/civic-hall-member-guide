@@ -5,7 +5,7 @@ tags: []
 featured_image: ''
 
 ---
-![Inline image 1](https://gallery.mailchimp.com/784ac4a90c07e1e7ebbf294d4/_compresseds/68b346f6-1aca-4eed-a11a-fdabc4e742e5.jpg =600x300)
+**PART OF THE CONVERSATION SERIES**
 
 In light of our country’s divided history and the momentous events of the past year, it’s more important than ever to build with, not for. Inspired by these events we have created an event series titled “Part of the Conversation.”  
   
