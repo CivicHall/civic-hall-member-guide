@@ -5,7 +5,7 @@ tags: []
 featured_image: ''
 
 ---
-![](https://gallery.mailchimp.com/784ac4a90c07e1e7ebbf294d4/images/a751bb9e-415f-4ff9-81d1-3a9cf3d69cbf.jpg =600x300)
+**AMAZON WEB SERVICES OFFER FOR CIVIC HALL MEMBERS**
 
 Amazon Web Services provides infrastructure that allows startups to grow and thrive, and AWS Activate is a program that allows you to access those resources quickly. From Technical and Business Essentials Online Trainings to Promotional Credits that can be used on a variety of AWS products, this offer provides an unparalleled opportunity for folks who are getting started and looking to scale up. Interested? Applying is easy for members of the Civic Hall community!  
   
@@ -15,7 +15,9 @@ First, visit the AWS Activate webpage [https://aws.amazon.com/activate/portfoli
 2. Provide your **AWS Account ID** on the application. Promotional Credits will be added directly to this account, so please double check it - we cannot transfer credits in the future.
 3. Please provide your **company domain email address** regardless of the email associated with your AWS Account ID. Personal email addresses are likely to be unrecognized and rejected, complicating application processing and billing inquiries.
 
-We'll kick off with dedicated Civic Hall office hours mid-March at the AWS Loft. Any questions? Email [community@civichall.org](mailto:community@civichall.org)![Inline image 1](https://gallery.mailchimp.com/784ac4a90c07e1e7ebbf294d4/_compresseds/68b346f6-1aca-4eed-a11a-fdabc4e742e5.jpg =600x300)
+We'll kick off with dedicated Civic Hall office hours mid-March at the AWS Loft. Any questions? Email [community@civichall.or](mailto:community@civichall.org)g
+
+**PART OF THE CONVERSATION**
 
 In light of our country’s divided history and the momentous events of the past year, it’s more important than ever to build with, not for. Inspired by these events we have created an event series titled “Part of the Conversation.”  
   
