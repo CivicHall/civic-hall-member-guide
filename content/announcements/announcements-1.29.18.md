@@ -3,7 +3,6 @@ title: Announcements 1.29.18
 date: 2018-01-29 14:09:34 +0000
 tags: []
 featured_image: ''
-draft: true
 
 ---
 ![](https://gallery.mailchimp.com/784ac4a90c07e1e7ebbf294d4/images/a751bb9e-415f-4ff9-81d1-3a9cf3d69cbf.jpg =600x300)
