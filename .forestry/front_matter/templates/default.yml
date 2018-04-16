@@ -1,5 +1,6 @@
 ---
 pages:
+- announcements/announcements-4.16.18.md
 - announcements/announcements-4.9.18.md
 - announcements/announcements-4.2.18.md
 - announcements/announcements-.md
@@ -29,6 +30,7 @@ pages:
 - announcements/meet-our-summer-interns.md
 - membership/membership/aws-activate--offer-for-civic-hall-members.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
