@@ -1,5 +1,29 @@
 ---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: featured_image
+  label: Featured image
+  type: text
+  hidden: false
+  default: ''
 pages:
+- announcements/announcements-5.21.18.md
 - announcements/announcements-5.14.18.md
 - announcements/announcements-5.7.18.md
 - announcements/announcements-4.30.18.md
@@ -33,26 +57,3 @@ pages:
 - announcements/we-re-open-on-columbus-day-october-9.md
 - announcements/meet-our-summer-interns.md
 - membership/membership/aws-activate--offer-for-civic-hall-members.md
-hide_body: false
-is_partial: false
-fields:
-- name: title
-  label: Title
-  type: text
-  hidden: false
-  default: ''
-- name: date
-  label: Date
-  type: text
-  hidden: false
-  default: ''
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: []
-- name: featured_image
-  label: Featured image
-  type: text
-  hidden: false
-  default: ''
