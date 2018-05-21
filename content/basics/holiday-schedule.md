@@ -4,8 +4,6 @@ title: Holiday Schedule
 tags: []
 
 ---
-
-
 Civic Hall observes the following holidays and will be closed:
 
 New Year's Day
@@ -20,8 +18,16 @@ Independence Day
 
 Labor Day
 
+Columbus Day
+
+Veterans Day
+
 Thanksgiving
 
-Day after Thanksgiving
+Day After Thanksgiving
+
+Christmas Eve
 
 Christmas
+
+The Week Between Christmas and New Year's
