@@ -23,6 +23,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/announcements/announcements-6.25.18.md
 - content/announcements/announcements-6.18.18.md
 - content/announcements/announcements-5.14.18.md
 - content/announcements/announcements-2.5.18.md
