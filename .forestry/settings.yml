@@ -3,7 +3,25 @@ new_page_extension: md
 auto_deploy: false
 admin_path: admin
 webhook_url: 
-sections: 
+sections:
+- path: content/membership
+  label: Membership
+  create: all
+- path: content/basics
+  label: Basics
+  create: all
+- path: content/announcements
+  label: Announcements
+  create: all
+- path: content/reference
+  label: Reference
+  create: all
+- path: content/guidelines
+  label: Guidelines
+  create: all
+- path: content
+  label: Pages
+  create: all
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"

@@ -23,6 +23,8 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/membership/membership/aws-activate--offer-for-civic-hall-members.md
+- content/announcements/announcements-7.2.18.md
 - content/announcements/announcements-6.25.18.md
 - content/announcements/announcements-6.18.18.md
 - content/announcements/announcements-5.14.18.md
@@ -59,4 +61,3 @@ pages:
 - content/announcements/announcements-4.9.18.md
 - content/announcements/announcements-12.11.17.md
 - content/announcements/announcements-10-2-17.md
-- content/membership/membership/aws-activate--offer-for-civic-hall-members.md
