@@ -1,5 +1,5 @@
 ---
-title: Can I Eat in the Community Space?
+title: Can I Eat In The Community Space?
 date: ''
 tags: []
 featured_image: ''
