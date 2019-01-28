@@ -1,7 +1,8 @@
 ---
-date: 2017-03-06T10:14:45-05:00
+date: 2017-03-06 10:14:45 -0500
 title: Can I Bring My Bike To Civic Hall?
 tags:
-  - "In the Space"
+- In the Space
+
 ---
-Bikes are not permitted in the building and there is no designated bicycle storage on the premises.
+Yes, however, bike storage in the Civic Hall workspace is first come, first serve. You will need to bring your bike upstairs in the freight elevator and hang it on the bike rack in the storage area.
