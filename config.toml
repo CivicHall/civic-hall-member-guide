@@ -10,11 +10,6 @@ name = "Slack Community"
 url = "/Slack/"
 weight = 3
 [[menu.main]]
-identifier = "reference"
-name = "Code of Conduct"
-url = "/codeofconduct/"
-weight = 2
-[[menu.main]]
 identifier = "guidelines"
 name = "Guidelines & Policies"
 url = "/guidelines/"
