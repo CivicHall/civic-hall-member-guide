@@ -3,7 +3,6 @@ title: Where Can I Store My Belongings?
 date: ''
 tags: []
 featured_image: ''
-draft: true
 
 ---
 Civic Hall is not responsible for lost or stolen items in any of our spaces. That being said, we do have spaces for you to keep your belongings while you use the space.
