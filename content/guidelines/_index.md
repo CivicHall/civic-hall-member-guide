@@ -2,10 +2,6 @@
 title: Code of Conduct
 date: ''
 type: Code of Conduct
-menu:
-  main:
-    identifier: reference
-    weight: 2
 
 ---
 **Civic Hall Code of Conduct**
