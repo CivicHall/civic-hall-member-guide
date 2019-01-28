@@ -2,6 +2,7 @@
 title: Code of Conduct
 date: ''
 type: Code of Conduct
+draft: true
 
 ---
 **Civic Hall Code of Conduct**
