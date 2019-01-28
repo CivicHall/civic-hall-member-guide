@@ -2,6 +2,7 @@
 title: Slack Community
 date: '2017-03-02T17:00:00Z'
 type: Slack
+draft: true
 
 ---
 Our Slack network is an excellent platform to communicate and stay in touch with all of your fellow Civic Hall Members. There’s a channel relevant to almost any interest, but not all of them have daily activity or conversation. Therefore, the community team here at Civic Hall thought it’d be convenient to analyze which Slack channels typically have the most activity.
