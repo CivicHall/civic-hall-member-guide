@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 date: ''
-type: Guidelines and Policies
+type: Code of Conduct
 menu:
   main:
     identifier: reference
