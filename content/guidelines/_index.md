@@ -1,6 +1,6 @@
 ---
 title: Code of Conduct
-date: 2017-03-02 12:00:00 -0500
+date: ''
 
 ---
 **Civic Hall Code of Conduct**
