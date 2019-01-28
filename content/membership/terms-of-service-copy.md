@@ -3,8 +3,9 @@ date: 2017-03-06 07:17:03 -0500
 title: Terms of Service-(copy)
 tags:
 - Legal
-- Membership
+- guidelines
 weight: 
+type: guidelines
 draft: true
 
 ---
