@@ -1,5 +1,5 @@
 ---
-title: Can I Host Events at Civic Hall?
+title: Can I Host Events At Civic Hall?
 date: ''
 tags: []
 featured_image: ''
