@@ -3,7 +3,6 @@ title: Is There a Lost and Found?
 date: ''
 tags: []
 featured_image: ''
-draft: true
 
 ---
 The lost and found is located by the front desk. If you lost something, please give the Welcome Desk your name and contact information in case it shows up and post a notice in the [#lostandfound](https://civichallmembers.slack.com/messages/lostandfound/) Slack channel.
