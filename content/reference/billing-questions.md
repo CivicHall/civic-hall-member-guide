@@ -1,8 +1,10 @@
 ---
-date: 2017-03-06T07:33:41-05:00
+date: 2017-03-06 07:33:41 -0500
 title: Questions about Billing
 tags:
-  - Billing
+- Billing
+draft: true
+
 ---
 Contact our Operations Team by emailing **info@civichall.org** for questions regarding:
 
