@@ -3,7 +3,6 @@ title: How do I Connect to the Printer?
 date: ''
 tags: []
 featured_image: ''
-draft: true
 
 ---
 Please use the printer for **SMALL PRINT JOBS** only (less than **20** pages).
