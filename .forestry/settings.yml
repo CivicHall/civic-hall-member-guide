@@ -4,27 +4,50 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-- path: content/membership
+- type: directory
+  path: content/membership
   label: Membership
   create: all
-- path: content/basics
+  match: "**/*"
+- type: directory
+  path: content/basics
   label: Basics
   create: all
-- path: content/announcements
+  match: "**/*"
+- type: directory
+  path: content/announcements
   label: Announcements
   create: all
-- path: content/reference
+  match: "**/*"
+- type: directory
+  path: content/reference
   label: Reference
   create: all
-- path: content/guidelines
+  match: "**/*"
+- type: directory
+  path: content/guidelines
   label: Guidelines
   create: all
-- path: content
+  match: "**/*"
+- type: directory
+  path: content
   label: Pages
   create: all
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
 use_front_matter_path: false
 file_template: ":filename:"
+build:
+  preview_command: hugo -E -F -D -b $DEPLOY_URL -d public
+  publish_command: hugo -d public
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.20.2
+  publish_env:
+  - HUGO_ENV=production
+  - HUGO_VERSION=0.20.2
+  preview_output_directory: public
+  output_directory: public
 version: 0.20.2

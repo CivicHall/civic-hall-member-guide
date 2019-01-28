@@ -5,35 +5,30 @@ languageCode = "en-us"
 theme = "civic-hall-base"
 title = "Membership Guide"
 [[menu.main]]
-identifier = "history"
-name = "About Civic Hall"
-url = "/history/"
-weight = 25
-[[menu.main]]
 identifier = "reference"
 name = "FAQs"
 url = "/reference/"
-weight = 20
+weight = 4
 [[menu.main]]
 identifier = "guidelines"
 name = "Guidelines & Policies"
 url = "/guidelines/"
-weight = 15
+weight = 3
 [[menu.main]]
 identifier = "membership"
 name = "Membership"
 url = "/membership/"
-weight = 10
+weight = 2
 [[menu.main]]
 identifier = "events"
 name = "Events"
 url = "/events/"
-weight = 5
-[[menu.main]]
-identifier = "announcements"
-name = "Announcements"
-url = "/announcements/"
 weight = 1
+[[menu.main]]
+identifier = "history"
+name = "About Civic Hall"
+url = "/history/"
+weight = 5
 [params]
 description = "Welcome to a community of action-oriented, cross-sector professionals located in the heart of Manhattan, where we aim to better the world through civic tech."
 facebook = "https://www.facebook.com/CivicHallNYC"
