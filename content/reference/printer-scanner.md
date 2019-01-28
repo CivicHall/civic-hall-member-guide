@@ -1,8 +1,9 @@
 ---
-date: 2017-03-06 10:15:24 -0500
+date: 2017-03-06 15:15:24 +0000
 title: How Do I Connect To The Printer/Scanner?
 tags:
 - Technology
+draft: true
 
 ---
 Please use the printer for **SMALL PRINT JOBS** only (less than **20** pages).
