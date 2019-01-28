@@ -1,7 +1,8 @@
 ---
 title: Is Civic Hall open on weekends?
 date: ''
-tags: []
+tags:
+- in the space
 featured_image: ''
 draft: true
 
