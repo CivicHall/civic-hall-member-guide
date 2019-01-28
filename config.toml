@@ -6,8 +6,8 @@ theme = "civic-hall-base"
 title = "Membership Guide"
 [[menu.main]]
 identifier = "membership"
-name = "Membership"
-url = "/membership/"
+name = "Slack Community"
+url = "/Slack/"
 weight = 1
 [[menu.main]]
 identifier = "reference"
