@@ -1,5 +1,5 @@
 ---
-title: How do I Connect to the Printer?
+title: How Do I Connect To The Printer?
 date: ''
 tags: []
 featured_image: ''
