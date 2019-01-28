@@ -1,12 +1,11 @@
 ---
-date: '2017-03-05T23:55:30-05:00'
+date: 2017-03-05 23:55:30 -0500
 title: How to Use Slack
 tags:
 - Slack
+type: Slack
 
 ---
-
-
 Our Slack network is an excellent platform to communicate and stay in touch with all of your fellow Civic Hall Members. There’s a channel relevant to almost any interest, but not all of them have daily activity or conversation. Therefore, the community team here at Civic Hall thought it’d be convenient to analyze which Slack channels typically have the most activity.
 
 If you don't see a channel that fits the topic of discussion you'd like to participate in, you can always create a new channel or, try to spark conversation in less active channels too!
