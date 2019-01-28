@@ -3,7 +3,6 @@ title: Where Can I Leave My Food?
 date: ''
 tags: []
 featured_image: ''
-draft: true
 
 ---
 There is a refrigerator in the kitchen. Label your food and leave it there during the day, but **do not leave it overnight**.
