@@ -5,10 +5,6 @@ tags:
 - code of conduct
 - member policy
 featured_image: ''
-menu:
-  main:
-    identifier: reference
-    weight: 2
 
 ---
 **Our Community**
