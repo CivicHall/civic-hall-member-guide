@@ -1,6 +1,7 @@
 ---
 title: Code of Conduct
 date: ''
+type: Guidelines and Policies
 
 ---
 **Civic Hall Code of Conduct**
