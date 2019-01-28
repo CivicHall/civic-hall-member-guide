@@ -1,5 +1,5 @@
 ---
-date: 2017-03-06 10:31:34 -0500
+date: 2017-03-06 15:31:34 +0000
 title: Can I Still Host Events At Civic Hall?
 
 ---
