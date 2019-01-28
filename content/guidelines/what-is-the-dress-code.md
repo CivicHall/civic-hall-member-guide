@@ -1,5 +1,5 @@
 ---
-title: What is the Dress Code?
+title: What Is The Dress Code?
 date: ''
 tags: []
 featured_image: ''
