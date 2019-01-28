@@ -1,5 +1,5 @@
 ---
-title: Is Civic Hall Open on Weekends?
+title: Is Civic Hall Open On Weekends?
 date: ''
 tags:
 - in the space
