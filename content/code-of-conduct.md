@@ -1,5 +1,5 @@
 ---
-title: Code of Conduct
+title: Code of Conduct 2019
 date: January 28, 2019
 tags:
 - code of conduct
