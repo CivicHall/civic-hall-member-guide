@@ -5,6 +5,11 @@ languageCode = "en-us"
 theme = "civic-hall-base"
 title = "Membership Guide"
 [[menu.main]]
+identifier = "membership"
+name = "Slack Community"
+url = "https://memberguide.civichall.org/slack/"
+weight = 3
+[[menu.main]]
 identifier = "guidelines"
 name = "Guidelines & Policies"
 url = "/guidelines/"
