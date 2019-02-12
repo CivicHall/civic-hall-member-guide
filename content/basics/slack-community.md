@@ -2,6 +2,11 @@
 title: Slack Community 2019
 date: '2017-03-02T17:00:00Z'
 type: Slack
+menu:
+  main:
+    name: Slack Community
+    identifier: membership
+    weight: 3
 draft: true
 
 ---

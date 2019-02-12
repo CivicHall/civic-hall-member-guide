@@ -1,14 +1,10 @@
 ---
-date: 2017-03-06 07:43:36 -0500
+date: 2017-03-06 12:43:36 +0000
 title: Slack Community
 tags:
 - Slack
 - Membership Benefits'
 weight: 95
-menu:
-  main:
-    identifier: membership
-    weight: 3
 
 ---
 Our Slack network is an excellent platform to communicate and stay in touch with all of your fellow Civic Hall members. In the [**Civic Hall Slack Team**](https://civichallmembers.slack.com/) we post events outside Civic Hall, share exciting member news, and more.
