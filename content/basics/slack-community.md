@@ -9,14 +9,14 @@ Our Slack network is an excellent platform to communicate and stay in touch with
 
 Access Slack here: [civichallmembers.slack.com](https://civichallmembers.slack.com/)
 
-<hr> 
+<hr>
 Here are some of our most popular Slack channels, as well as an idea of what type of conversation takes place in each of them:
 
 **#calltoaction** Join the resistance.
 
-**#civicwome**n Celebrate and support your fellow Civic Women!
+**#civicwomen** Celebrate and support your fellow Civic Women!
 
-<span style="font-size: 1rem;"><b>#freefood</b> People notify other members of opportunities for free food that pop up, whether it’s in the cafe, or outside. (</span>Definitely<span style="font-size: 1rem;"> a channel to keep an eye on!) There </span>tend<span style="font-size: 1rem;">&nbsp;to be opportunities for free bites to eat pretty often.</span>
+<span style="font-size: 1rem;"><b>#freefood</b> People notify other members of opportunities for free food that pop up, whether it’s in the cafe, or outside. (</span>Definitely<span style="font-size: 1rem;"> a channel to keep an eye on!) There </span>tend<span style="font-size: 1rem;"> to be opportunities for free bites to eat pretty often.</span>
 
 **#funding-_-opps** Funding and Opportunities: Competitions, Grants, Accelerators, Incubators, non-profit, grant writing tips, speaking/expert panel opps, funding panel opps., etc.
 
