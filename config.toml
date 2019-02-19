@@ -5,11 +5,6 @@ languageCode = "en-us"
 theme = "civic-hall-base"
 title = "Membership Guide"
 [[menu.main]]
-identifier = "reference"
-name = "Code of Conduct 2019"
-url = "https://memberguide.civichall.org/codeofconduct/"
-weight = 2
-[[menu.main]]
 identifier = "membership"
 name = "Slack Community"
 url = "/slack/"
