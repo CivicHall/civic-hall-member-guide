@@ -3,7 +3,6 @@ title: Code of Conduct 2019
 date: ''
 tags: []
 featured_image: ''
-draft: true
 
 ---
 **Our Community**
