@@ -2,11 +2,6 @@
 title: Code of Conduct
 date: ''
 type: Code of Conduct
-menu:
-  main:
-    name: Code of Conduct 2019
-    identifier: reference
-    weight: 2
 draft: true
 
 ---
