@@ -3,6 +3,9 @@ title: Code of Conduct 2019
 date: ''
 tags: []
 featured_image: ''
+menu:
+  main:
+    weight: 2
 
 ---
 **Our Community**
